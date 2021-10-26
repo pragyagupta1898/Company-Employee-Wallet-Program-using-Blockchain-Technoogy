@@ -3,7 +3,7 @@
 
 Abstract
 
-The distributed ledger underlying Bitcoin cryptocurrency called Blockchain which is decentralized and possesses data management technology, has attracted attention and stimulated rich discussions within fin-tech and government organizations in order to eliminate financial efficiencies and mitigate risks.
+The distributed ledger underlying Bitcoin cryptocurrency called Blockchain which is decentralized and possesses data management technology, has attracted attention and stimulated rich discussions within fin-tech and government organizations in order to eliminate financial efficiencies and mitigate risks.
 
 A swarm based peer-to-peer network is designed for the proposed e-wallet system along with the introspection of cloud database and smart contracts which are used to exchange data in a transparent and in a trusted manner.
 
